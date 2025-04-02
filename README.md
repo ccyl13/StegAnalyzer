@@ -99,6 +99,7 @@
    ```bash
    sudo apt update
    sudo apt install git
+   git clone https://github.com/ccyl13/StegAnalyzer.git
    
 ### Paso 2: Instalar Dependencias
 1. Instala las dependencias de Python usando `pip`:
